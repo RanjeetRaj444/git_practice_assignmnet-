@@ -1,4 +1,5 @@
-//Prime Mthod.
+
+// Prime Mthod
 
 let num=13;
 let count=0;
